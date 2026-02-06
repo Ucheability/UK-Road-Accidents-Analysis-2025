@@ -138,7 +138,16 @@ The Power BI report is structured into **four focused pages**, each answering a 
 - Communicating findings using **clear business language**
 - Designing dashboards for **policy, operational, and decision-making audiences**
 
-  
+  ## 📁 Project Structure
+
+The repository is organised to ensure clarity, reproducibility, and ease of navigation:
+
+### Files Included
+- **Power BI (.pbix) file** containing all data models, measures, and dashboards
+- **Dashboard screenshots** for quick viewing without opening Power BI
+- **Provisional raw data** used for the analysis
+- **README documentation** explaining the project, insights, and recommendations
+
 
 
 
