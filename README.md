@@ -151,11 +151,12 @@ The repository is organised to ensure clarity, reproducibility, and ease of navi
 
 ## 🖥 Dashboard Preview
 
-**Accident Overview**
+- **Accident Overview**
+  
 ![Accident Overview](visuals/Overview.jpg)
-Figure 1:Accident Overview
+Figure 1: Accident Overview
 
-**Environmental Conditions**
+- **Environmental Conditions**
 ![Environmental Conditions](visuals/Environmental_Conditions.jpg)
  Figure 2: Environmental Conditions
  
