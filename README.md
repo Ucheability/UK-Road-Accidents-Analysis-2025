@@ -112,6 +112,31 @@ The Power BI report is structured into **four focused pages**, each answering a 
 - **Use data-led monitoring for policy evaluation**  
   Continuous monitoring of provisional accident data will enable policymakers to assess the effectiveness of interventions and adapt strategies as more complete data becomes available.
 
+## 🛠 Tools, Skills & Techniques Used
+
+### Tools
+- **Power BI Desktop** – Data modelling, DAX measures, interactive dashboards, and storytelling
+- **Power Query** – Data cleaning, transformation, and handling coded variables
+- **Microsoft Excel** – Initial data inspection and validation
+- **GitHub** – Version control and project documentation
+
+### Data Modelling
+- **Star schema design** with a central collision fact table and multiple dimension tables
+- Creation of **date and categorical dimensions** for time-based and contextual analysis
+- Proper relationship management to support accurate filtering and slicing
+
+### Analytics & Visualisation Techniques
+- KPI development (Total Accidents, Casualties, Severity breakdown, Average Casualties per Accident)
+- Time-series analysis (monthly accident trends)
+- Categorical analysis (severity, road type, junction detail, weather, light, and road surface)
+- Comparative analysis (urban vs rural, weekday patterns, speed limit distribution)
+- Use of slicers for dynamic filtering and user-driven exploration
+
+### Business & Analytical Skills Demonstrated
+- Translating raw transport data into **actionable insights**
+- Applying **data storytelling** principles across multiple dashboard pages
+- Communicating findings using **clear business language**
+- Designing dashboards for **policy, operational, and decision-making audiences**
 
   
 
