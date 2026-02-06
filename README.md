@@ -29,7 +29,7 @@ The Power BI report is structured into **four focused pages**, each answering a 
 **Purpose:** Provide a high-level summary of road accident trends and key metrics.
 
 **Visuals:**
-- KPI Cards: Total Accidents, Total Casualties, Fatal Accidents, Serious Accidents, Slight Accidents
+- KPI Cards: Total Accidents, Total Casualties, Fatal Accidents, Serious Accidents, Slight Accidents,Average Casualties per Accident
 - Line Chart: Monthly accident trend
 - Column Chart: Accidents by Day of Week
 - Donut Chart: Accident severity distribution
@@ -43,7 +43,7 @@ The Power BI report is structured into **four focused pages**, each answering a 
 **Purpose:** Understand how environmental conditions influence accident severity.
 
 **Visuals:**
-- Bar Chart: Accidents by Severity
+- Pie Chart: Accident by Area Type
 - Bar Chart: Accidents by Weather Condition
 - Bar Chart: Accidents by Light Condition
 - Bar Chart: Accidents by Road Surface Condition
@@ -53,13 +53,13 @@ The Power BI report is structured into **four focused pages**, each answering a 
 
 ---
 
-### Page 3: Road & Location Analysis
+### Page 3: Road & Infrastructure Analysis
 **Purpose:** Identify infrastructure and geographic risk patterns.
 
 **Visuals:**
-- Bar Chart: Accidents by Road Type
+- Bar Chart: Accidents by Road Type and Severity
 - Bar Chart: Accidents by Junction Detail
-- Map Visual: Geographic distribution of accidents
+- Column Chart: Accident by Speed Limit(MPH)
 
 **Key Question Answered:**
 - Which road features and locations present higher accident risks?
