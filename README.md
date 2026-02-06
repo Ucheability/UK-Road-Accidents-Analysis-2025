@@ -80,7 +80,7 @@ The Power BI report is structured into **four focused pages**, each answering a 
 
 - A total of **48K road accidents** were recorded between **January and June 2025**, resulting in **61K casualties**, highlighting a significant public safety challenge.
 
-- **Slight accidents account for the majority (≈74%)**, while **serious accidents (≈25%)** form a substantial share, indicating a persistent risk of high-impact incidents despite low fatality rates.
+- **Slight accidents account for the majority (74%)**, while **serious accidents (25%)** form a substantial share, indicating a persistent risk of high-impact incidents despite low fatality rates.
 
 - Accident volumes show a **clear monthly pattern**, with a noticeable dip in February and a **peak in May**, suggesting seasonal and behavioural influences on road safety.
 
@@ -91,6 +91,27 @@ The Power BI report is structured into **four focused pages**, each answering a 
 - Adverse **weather, poor light conditions, and wet road surfaces** are strongly associated with higher accident counts, increasing the likelihood of severe outcomes.
 
 - Certain **road types and junction designs** consistently record higher accident volumes, indicating infrastructure-related risk factors.
+
+- ## 💡 Business Recommendations
+
+- **Target urban road safety interventions**  
+  Given that the majority of accidents occur in urban areas, local authorities should prioritise traffic calming, improved signage, and pedestrian safety measures in high-density locations.
+
+- **Focus on high-risk road infrastructure**  
+  Single carriageways and complex junctions (T or staggered junctions, crossroads) consistently record the highest accident volumes. Infrastructure redesign, clearer lane markings, and junction visibility improvements should be prioritised.
+
+- **Strengthen safety measures in lower speed zones (20–30 mph)**  
+  Although speed limits are lower, these roads experience the highest number of accidents due to traffic density and frequent interactions. Enhanced enforcement, speed awareness campaigns, and road user education are recommended.
+
+- **Maintain vigilance during favourable driving conditions**  
+  Most accidents occur in clear weather, daylight, and dry road conditions, suggesting behavioural factors such as complacency. Public awareness campaigns should reinforce safe driving regardless of conditions.
+
+- **Deploy time-based interventions**  
+  With accident peaks observed on Fridays and during specific months, targeted enforcement and public messaging during high-risk periods could help reduce incident rates.
+
+- **Use data-led monitoring for policy evaluation**  
+  Continuous monitoring of provisional accident data will enable policymakers to assess the effectiveness of interventions and adapt strategies as more complete data becomes available.
+
 
   
 
