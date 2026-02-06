@@ -172,5 +172,19 @@ The repository is organised to ensure clarity, reproducibility, and ease of navi
   *Figure 4: Detailed Accident Records*
 
 
+##  Data Disclaimer
+
+This analysis is based on **provisional UK road accident data** covering the period **January to June 2025**.  
+Figures may be subject to revision as further records are validated and updated by the Department for Transport.  
+Insights and recommendations should therefore be interpreted with this limitation in mind.
+
+## 📌 Project Summary
+
+This project demonstrates the end-to-end analysis of UK road accident data using **Power BI**, from data cleaning and modelling to insight generation and business-focused recommendations.
+
+Through interactive dashboards, the analysis highlights key accident patterns across time, environment, road infrastructure, and urbanisation, providing actionable insights relevant to **transport planning, public safety, and policy decision-making**.
+
+The project showcases practical skills in **data modelling, visual analytics, and storytelling**, and is intended as a portfolio piece for data analyst and business intelligence roles.
+
 
 
