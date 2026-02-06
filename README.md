@@ -43,7 +43,7 @@ The Power BI report is structured into **four focused pages**, each answering a 
 **Purpose:** Understand how environmental conditions influence accident severity.
 
 **Visuals:**
-- Pie Chart: Accident by Area Type
+- Pie Chart: Accidents by Area Type
 - Bar Chart: Accidents by Weather Condition
 - Bar Chart: Accidents by Light Condition
 - Bar Chart: Accidents by Road Surface Condition
@@ -75,5 +75,24 @@ The Power BI report is structured into **four focused pages**, each answering a 
 
 **Key Question Answered:**
 - What are the detailed characteristics of individual accidents?
+
+## 🔍 Key Insights
+
+- A total of **48K road accidents** were recorded between **January and June 2025**, resulting in **61K casualties**, highlighting a significant public safety challenge.
+
+- **Slight accidents account for the majority (≈74%)**, while **serious accidents (≈25%)** form a substantial share, indicating a persistent risk of high-impact incidents despite low fatality rates.
+
+- Accident volumes show a **clear monthly pattern**, with a noticeable dip in February and a **peak in May**, suggesting seasonal and behavioural influences on road safety.
+
+- **Fridays record the highest number of accidents**, pointing to increased risk towards the end of the workweek, while weekends show comparatively lower incident levels.
+
+- **Urban areas contribute the largest proportion of accidents**, reflecting higher traffic density and exposure compared to rural locations.
+
+- Adverse **weather, poor light conditions, and wet road surfaces** are strongly associated with higher accident counts, increasing the likelihood of severe outcomes.
+
+- Certain **road types and junction designs** consistently record higher accident volumes, indicating infrastructure-related risk factors.
+
+  
+
 
 
