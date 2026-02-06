@@ -21,3 +21,59 @@ This project involved developing a comprehensive 4-page Power BI dashboard to an
 - Police force
 - Geographic coordinates (latitude & longitude)
 
+- ## 📊 Dashboard Structure
+
+The Power BI report is structured into **four focused pages**, each answering a specific business question and enabling clear, guided analysis.
+
+### Page 1: Overview & Trends
+**Purpose:** Provide a high-level summary of road accident trends and key metrics.
+
+**Visuals:**
+- KPI Cards: Total Accidents, Total Casualties, Fatal Accidents, Serious Accidents, Slight Accidents
+- Line Chart: Monthly accident trend
+- Column Chart: Accidents by Day of Week
+- Donut Chart: Accident severity distribution
+
+**Key Question Answered:**
+- When do accidents occur most, and how severe are they?
+
+---
+
+### Page 2: Severity & Environment Analysis
+**Purpose:** Understand how environmental conditions influence accident severity.
+
+**Visuals:**
+- Bar Chart: Accidents by Severity
+- Bar Chart: Accidents by Weather Condition
+- Bar Chart: Accidents by Light Condition
+- Bar Chart: Accidents by Road Surface Condition
+
+**Key Question Answered:**
+- Under which conditions do severe accidents most frequently occur?
+
+---
+
+### Page 3: Road & Location Analysis
+**Purpose:** Identify infrastructure and geographic risk patterns.
+
+**Visuals:**
+- Bar Chart: Accidents by Road Type
+- Bar Chart: Accidents by Junction Detail
+- Map Visual: Geographic distribution of accidents
+
+**Key Question Answered:**
+- Which road features and locations present higher accident risks?
+
+---
+
+### Page 4: Detailed Accident Records
+**Purpose:** Enable detailed exploration and record-level analysis.
+
+**Visuals:**
+- Searchable table of accident records
+- Cross-page filtering via slicers
+
+**Key Question Answered:**
+- What are the detailed characteristics of individual accidents?
+
+
