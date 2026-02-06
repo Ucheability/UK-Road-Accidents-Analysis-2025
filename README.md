@@ -151,16 +151,18 @@ The repository is organised to ensure clarity, reproducibility, and ease of navi
 
 ## 🖥 Dashboard Preview
 
-### - ** Accident Overview
+**Accident Overview**
 ![Accident Overview](visuals/Overview.jpg)
-*Figure 1:Accident Overview
+Figure 1:Accident Overview
 
-###  Environmental Conditions
+**Environmental Conditions**
 ![Environmental Conditions](visuals/Environmental_Conditions.jpg)
- *Figure 2: Environmental Conditions
-### Page 3: Road & Infrastructure Analysis
-![Road & Infrastructure Analysis](visuals/page3_road_infrastructure.png)
-
+ Figure 2: Environmental Conditions
+ 
+**Road & Infrastructure Analysis**
+![Road & Infrastructure Analysis](visuals/Road_Infrastructure.jpg)
+ Figure 3: Environmental Conditions
+ 
 ### Page 4: Detailed Accident Records
 ![Detailed Accident Records](visuals/page4_detailed_records.png)
 
