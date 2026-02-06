@@ -147,6 +147,23 @@ The repository is organised to ensure clarity, reproducibility, and ease of navi
 - **Dashboard screenshots** for quick viewing without opening Power BI
 - **Provisional raw data** used for the analysis
 - **README documentation** explaining the project, insights, and recommendations
+- *Figure 1:
+
+## 🖥 Dashboard Preview
+
+### : Accident Overview
+![Accident Overview](visuals/Overview.jpg)
+*Figure 1:Accident Overview
+
+### Page 2: Environmental Conditions
+![Environmental Conditions](visuals/page2_environmental_conditions.png)
+
+### Page 3: Road & Infrastructure Analysis
+![Road & Infrastructure Analysis](visuals/page3_road_infrastructure.png)
+
+### Page 4: Detailed Accident Records
+![Detailed Accident Records](visuals/page4_detailed_records.png)
+
 
 
 
